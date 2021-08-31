@@ -1,5 +1,5 @@
 # bootcamp-schedule
 ## Boot camp training
 
-### Alle weiteren Erfolge im aBootcamp findet Ihr unter dem jeweiligen Tagesdatum.
+### Alle weiteren Erfolge aus dem Bootcamp findet Ihr unter dem jeweiligen Tagesdatum.
 :sparkling_heart:
