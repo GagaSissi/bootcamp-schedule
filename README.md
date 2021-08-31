@@ -1,5 +1,4 @@
-# bootcamp-schedule
-Boot camp training
+# Boot camp training
 ## Today I Learned:
 ### 30.08.2021
 - GitHub
