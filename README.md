@@ -1,4 +1,4 @@
-# Boot camp training
+# Bootcamp
 ## Today I Learned:
 ### 30.08.2021
 - GitHub
