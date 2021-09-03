@@ -1,7 +1,15 @@
 - Die Kaskade --> Eine Art Flow dem CSS folgt.🧘‍♀️
+[Mehr zur Kaskade](https://wiki.selfhtml.org/wiki/CSS/Tutorials/Einstieg/Kaskade#Ablauf_der_Kaskade)
 --> Important, verwenden in Style Sheets und 3rd party libraries
 --> Specificity, wie spezifisch ist ein Selector? Grundsätzliches Styling, Schrift, Schriftfarbe, Überschriften Abstand. Tags/Classes/etc.
---> Order of CSS rulesets, 
+--> Order of CSS rulesets
+- Vererbung (Inhereted) nutzen
+- Tipp: Kleine Seite spart Rechenleistung, also im Zweifelfall Geld. :;):
+- Style unterschiede
+--> reset.css/ wird alles auf 0 gesetzt
+--> normalize.css/ Normaliesierungs Package
+- Fallback, bei z.B. reduzierter Internetgeschwindigkeit
+--> rgba transparenz (255,0,0,0.5)
 
 Fragen für AMA
 -
